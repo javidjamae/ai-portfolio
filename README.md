@@ -1,8 +1,27 @@
 # Javid Jamae's AI Portfolio
 
-The following is a list of AI projects that I've worked on. These include projects that are done in no-code / low-code tools, as well as custom models that I've built by writing code.
+The following is a list of AI projects that I've worked on. These include projects that are done in no-code / low-code tools, as well as custom models that I've built from scratch (mosty in Python).
 
-## Lead Generation Chatbot
+If you're interested in my non-AI work, scroll down to the way bottom. 
+
+If you want to see my professional profile, check out [my LinkedIn](https://www.linkedin.com/in/jamae).  
+
+## Marketing Software Product - Knowledge Base / Chatbot
+
+**Delivery Date:** October, 2023
+
+**Tags:** Chatbot, Botpress (botpress.com), Knowledge Base, Prompt Engineering, GPT-4
+
+**Description:**
+I built a knowledge base AI chatbot that imports the entire sitemap for RAEK (raekdata.com) and answers questions about the company any all of their content.
+
+The chatbot is built on Botpress and uses the Knowledge Base to store and retrieve context, then sends the context along with the question to GPT-4 to enrich the answer through a highly tailored prompt.
+
+**Links:**
+- [Standalone Bot](https://mediafiles.botpress.cloud/0c11a186-e2f1-417f-a9d3-0f8d935e8e7a/webchat/bot.html)
+
+
+## Festival - Lead Generation / Knowledge Base / Chatbot
 
 **Delivery Date:** October, 2023
 
@@ -16,7 +35,7 @@ The chatbot is built on Botpress and stores organizer contact requests by append
 **Links:**
 - [Standalone Bot](https://mediafiles.botpress.cloud/04457367-445d-45d6-9b8b-8b5cb0ba030e/webchat/bot.html)
 
-## AI Persona Chatbot
+## AI Persona - Knowledge Base / Chatbot
 
 **Delivery Date:** September, 2023
 
@@ -34,7 +53,7 @@ I implemented this bot twice, once using Stack and again using Botpress.
 **Links:**
 - [Botpress Version](https://mediafiles.botpress.cloud/1eff96ad-20c5-4e2f-883a-390b3e5b5772/webchat/bot.html)
 
-## Resume / Job Matching System
+## Resume / Job Matching System - Recommendation System
 
 **Delivery Date:** October, 2023
 
@@ -45,7 +64,7 @@ I built a custom, internal SaaS Web application that allows recruiters to upload
 
 There is currently no demo for this project as I built it under an NDA.
 
-## ResumeBot
+## ResumeBot - Knowledge Base / Chatbot
 
 **Delivery Date:** September, 2023
 
@@ -98,3 +117,9 @@ The MNIST data set is a collection of images with handwriting samples of the dig
 
 **Links:**
 - [Jupyter Notebook](https://github.com/javidjamae/data-science/blob/master/masters-prep/neural-net-from-scratch/mnist-classification-from-scratch.ipynb)
+
+# Non-AI work
+
+I have extensive experience building SaaS and consumer Web products using Javascript / React:
+- I architected and led the development of the [primary acquisition flow](https://start.freedomfinancialnetwork.com/) for Achieve (formerly known as Freedom Financial Network). 
+- I was Head of Engineering at [Postman](https://www.postman.com), where I led six teams developing numerous product features
