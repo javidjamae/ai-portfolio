@@ -1,10 +1,15 @@
 # Javid Jamae's AI Portfolio
 
-The following is a list of AI projects that I've worked on. These include projects that are done in no-code / low-code tools, as well as custom models that I've built from scratch (mosty in Python).
+The following is a list of some of the AI projects that I've worked on, though it is not comprehensive. These include projects that are done in no-code / low-code tools, as well as custom models that I've built from scratch (mosty in Python).
 
-If you're interested in my non-AI work, scroll down to the way bottom. 
+If you're interested in my non-AI (fullstack Javascript) work, scroll down to the way bottom. 
 
 If you want to see my professional profile, check out [my LinkedIn](https://www.linkedin.com/in/jamae).  
+
+Please contact me if you're interested in having me work on a project:
+- [Discord: javidjamae](https://discord.com/users/291831418974371842)
+- [LinkedIn](https://www.linkedin.com/in/jamae)
+- [Email](mailto:javidjamae@gmail.com)
 
 ## Marketing Software Product - Knowledge Base / Chatbot
 
@@ -13,9 +18,9 @@ If you want to see my professional profile, check out [my LinkedIn](https://www.
 **Tags:** Chatbot, Botpress (botpress.com), Knowledge Base, Prompt Engineering, GPT-4
 
 **Description:**
-I built a knowledge base AI chatbot that imports the entire sitemap for RAEK (raekdata.com) and answers questions about the company any all of their content.
+I built a knowledge base AI chatbot that imports the entire sitemap for RAEK (raekdata.com) and answers questions about the company and all of their content.
 
-The chatbot is built on Botpress and uses the Knowledge Base to store and retrieve context, then sends the context along with the question to GPT-4 to enrich the answer through a highly tailored prompt.
+The chatbot is built on Botpress and uses the Knowledge Base to store and retrieve context, then it sends the context along with the question to GPT-4 to enrich the answer through a highly tailored prompt.
 
 **Links:**
 - [Standalone Bot](https://mediafiles.botpress.cloud/0c11a186-e2f1-417f-a9d3-0f8d935e8e7a/webchat/bot.html)
@@ -121,5 +126,5 @@ The MNIST data set is a collection of images with handwriting samples of the dig
 # Non-AI work
 
 I have extensive experience building SaaS and consumer Web products using Javascript / React:
-- I architected and led the development of the [primary acquisition flow](https://start.freedomfinancialnetwork.com/) for Achieve (formerly known as Freedom Financial Network). 
-- I was Head of Engineering at [Postman](https://www.postman.com), where I led six teams developing numerous product features
+- I architected and led the development of the [primary acquisition flow](https://start.freedomfinancialnetwork.com/) for Achieve (formerly known as Freedom Financial Network) entirely in React / Javascript. 
+- I was Head of Engineering at [Postman](https://www.postman.com), where I led six teams developing numerous product features using React / Javascript.
