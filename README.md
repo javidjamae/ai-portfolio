@@ -1,7 +1,5 @@
 # Javid Jamae's AI Portfolio
 
-The following is a list of some of the AI projects that I've worked on, though it is not comprehensive. These include projects that are done in no-code / low-code tools, as well as custom models that I've built from scratch (mosty in Python).
-
 If you're interested in my non-AI (fullstack Javascript) work, scroll down to the way bottom. 
 
 If you want to see my professional profile, check out [my LinkedIn](https://www.linkedin.com/in/jamae).  
@@ -10,6 +8,55 @@ Please contact me if you're interested in having me work on a project:
 - [Discord: javidjamae](https://discord.com/users/291831418974371842)
 - [LinkedIn](https://www.linkedin.com/in/jamae)
 - [Email](mailto:javidjamae@gmail.com)
+
+# Services
+
+I mainly develop AI-enabled web applications and chatbots. Here are some of the types of services I offer:
+
+Web Application development
+- SaaS products
+- Databases
+- 3rd-party integrations
+
+AI-enabled Chatbot development
+- Customer Service Bots
+- Prospecting
+- Knowledge Bases
+- AI Personas
+- Sales / Marketing Lead Acquisition
+- Ecommerce Bots
+
+# Skills / Technologies
+
+No-code / low-code tools:
+- Airtable
+- Bubble.io
+- Make
+- Zapier
+- IFTTT
+
+Chatbot Platforms:
+- Botpress
+- Voiceflow
+- Dialogflow
+- Drift
+- ManyChat
+
+ML Development
+- Python
+- PyTorch
+- Tensorflow
+- scikit-learn
+
+WebApp / SaaS Development
+- Javascript
+- React
+- Postgres
+- MongoDB
+- GraphQL
+
+# Projects
+The following is a list of some of the AI projects that I've worked on, though it is not comprehensive. These include projects that are done in no-code / low-code tools, as well as custom models that I've built from scratch (mosty in Python).
 
 ## Marketing Software Product - Knowledge Base / Chatbot
 
@@ -67,7 +114,9 @@ I implemented this bot twice, once using Stack and again using Botpress.
 **Description:**
 I built a custom, internal SaaS Web application that allows recruiters to upload their job descriptions and resumes, then it rates and ranks the resumes based on their similarity to the job description as well as a set of custom questions or rules that the recruiters can provide in plain language.
 
-There is currently no demo for this project as I built it under an NDA.
+There is currently no demo for the complete project as I built it under an NDA, but you can look at specific components that I built as part of a demo.
+
+- [Demoable Components](https://whale-app-gnamz.ondigitalocean.app/resume_evaluator)
 
 ## ResumeBot - Knowledge Base / Chatbot
 
