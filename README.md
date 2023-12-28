@@ -58,6 +58,51 @@ WebApp / SaaS Development
 # Projects
 The following is a list of some of the AI projects that I've worked on, though it is not comprehensive. These include projects that are done in no-code / low-code tools, as well as custom models that I've built from scratch (mosty in Python).
 
+## CoffeeGPT - Photorealistic Image Generation
+
+**Delivery Date:** January, 2023 (In Progress)
+
+**Tags:** AI Image Generation, Stable Diffusion, Juggernaut, Python, Background Workers, OAuth 2.0, Email Integration, APIs, Face Analysis, Face Swapping
+
+**Technologies:**
+- [Fooocus](https://github.com/lllyasviel/Fooocus)
+- [Amazon AWS](https://aws.amazon.com/) - S3, Lambda, API Gateway, RDS
+- [Replicate](https://replicate.com/)
+- [Github](https://github.com/)
+- [Postgres](https://www.postgresql.org/)
+- [Beehiiv](https://www.beehiiv.com/)
+- [Juggernaut](https://huggingface.co/stablediffusionapi/juggernaut-xl)
+- [InsightFace](https://insightface.ai/)
+
+**Description:**
+I led the development of a consumer email newsletter services that generates photorealistic images of people based on a reference image that they upload. An email goes out to the users each week with a generated image of them in a fun and interesting setting, while drinking coffee. 
+
+**Links:**
+- Coming soon
+
+## Mini-Me Chatbot Builder - SaaS AI Chatbot Platform
+
+**Delivery Date:** December, 2023
+
+**Tags:** LLM, Chatbot, Vectorstore, SaaS, Knowledge Base, Voice Calling AI
+
+**Technologies:** 
+- [Next.JS AI Chatbot](https://vercel.com/templates/next.js/nextjs-ai-chatbot)
+- [Next.JS](https://vercel.com/solutions/nextjs)
+- [Vercel](https://vercel.com/)
+- [Langchain JS](https://js.langchain.com/)
+- [Postgres](https://www.postgresql.org/)
+- [OpenAI - GPT4](https://openai.com/)
+- [React](https://react.dev/)
+- [Bland](https://www.bland.ai/)
+- [Github](https://github.com/)
+
+**Description:**
+I led the development of a Chatbot builder called Mini Me for Rallio. The product allows sales representatives from consumer product companies to build their own custom chatbots. Each sales representative can upload their own custom knowledgebase documents that their chatbot will use to answer questions for end customers and prospective business partners.
+
+**Links:**
+- [Screenshots](https://photos.app.goo.gl/ZBnvkbnSHXc9Bsr67)
+
 ## Marketing Software Product - Knowledge Base / Chatbot
 
 **Delivery Date:** October, 2023
