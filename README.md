@@ -101,6 +101,7 @@ I led the development of a consumer email newsletter services that generates pho
 I led the development of a Chatbot builder called Mini Me for Rallio. The product allows sales representatives from consumer product companies to build their own custom chatbots. Each sales representative can upload their own custom knowledgebase documents that their chatbot will use to answer questions for end customers and prospective business partners.
 
 **Links:**
+- [Project Details](/rallio-minimebot/README.md)
 - [Screenshots](https://photos.app.goo.gl/ZBnvkbnSHXc9Bsr67)
 
 ## Marketing Software Product - Knowledge Base / Chatbot
