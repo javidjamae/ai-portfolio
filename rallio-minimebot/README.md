@@ -36,17 +36,21 @@ In this project, I spearheaded the architecture and development, strategically s
 - [**Bland**](https://www.bland.ai/): Integrated for the voice calling feature, allowing users to interact with the chatbot via voice calls. Bland.ai's API facilitated seamless connection between the chatbot and the voice calling system.
 - [**Github**](https://github.com/): Utilized for version control and collaboration among the development team. It was essential for tracking changes, managing codebases, and facilitating continuous integration and deployment processes.
 
-### Communication and Coordination
-During the Mini-Me Chatbot Builder project for Rallio, my role in communication and coordination was crucial and multi-dimensional, playing a significant role in the project's success. Here's are some examples of my contributions in this area:
+### Communication and Leadership
+During the Mini-Me Chatbot Builder project for Rallio, my role in communication and leadership was crucial and significantly contributed to the project's success. Key contributions included:
 
-- Daily Communication for Seamless Coordination: I ensured daily communication with the project team, maintaining consistent and clear understanding of project objectives and progress. This regular communication was pivotal in aligning the team's efforts and keeping everyone on the same page​​.
+- **Project Management**: Led a team of four developers, coordinating tasks, pull requests, code reviews, and testing to maintain project momentum and quality.
+  
+- **Technical Architecture**: Architected the system and authored the Product Requirements Document (PRD), reviewed with stakeholders and developers for a solid plan and approach, followed by task breakdowns and implementation strategizing.
+  
+- **Daily Communication**: Ensured consistent daily communication with the team, maintaining a clear understanding of project objectives and progress, thus aligning efforts and keeping all members informed and focused.
+  
+- **Regular Update Schedule**: Established a three-day update cycle for thorough project monitoring and stakeholder information relay, enabling timely feedback and adjustments.
+  
+- **Strategic Meetings and Discussions**: Participated in key meetings, addressing critical aspects such as login strategies, bot personalization, and demo setups, pivotal in decision-making and project tailoring for the target audience.
+  
+- **In-depth Analysis and Requirements Gathering**: Conducted thorough analysis and revisited call notes for precise project requirements understanding, aligning the project with its goals and user expectations.
+  
+- **Collaborative Planning and Implementation**: Actively collaborated in planning and implementing core features like voice AI calling, custom knowledge base, and sales rep authentication, ensuring efficient execution in line with the project's vision.
 
-- Regular Update Schedule: I established and adhered to a schedule of updates every three days. This routine allowed for thorough monitoring of the project, ensuring all stakeholders were consistently informed about the latest developments and could provide timely feedback​​.
-
-- Strategic Meetings and Discussions: I was involved in key meetings and discussions, focusing on various aspects of the project such as login strategies, bot personalization, and setting up demos. These discussions were essential for decision-making and planning, especially in tailoring the project to meet the specific needs of our target audience​​.
-
-- In-depth Project Analysis and Requirements Gathering: Part of my role involved deep analysis and revisiting call notes to understand and refine project requirements. This attention to detail ensured that the project stayed aligned with its goals and catered effectively to the intended users​​.
-
-- Collaborative Planning and Implementation: Throughout the project, I actively collaborated with the team on planning and implementing features such as the chatbot's voice AI calling system, custom knowledge base, and authentication for sales representatives. My role involved not only coordinating these efforts but also ensuring that they were executed efficiently and in line with the project's overall vision.
-
-In summary, my role in communication and coordination was integral to the effective management and successful delivery of the Mini-Me Chatbot Builder project, ensuring that all aspects of the project were harmoniously integrated and aligned with the strategic goals.
+In summary, my communication and leadership were integral to the effective management and successful delivery of the Mini-Me Chatbot Builder project, ensuring seamless integration of all project aspects with the strategic goals.
