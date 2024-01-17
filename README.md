@@ -1,59 +1,9 @@
 # Javid Jamae's AI Portfolio
 
-If you're interested in my non-AI (fullstack Javascript) work, scroll down to the way bottom. 
-
-If you want to see my professional profile, check out [my LinkedIn](https://www.linkedin.com/in/jamae).  
-
-Please contact me if you're interested in having me work on a project:
-- [Discord: javidjamae](https://discord.com/users/291831418974371842)
-- [LinkedIn](https://www.linkedin.com/in/jamae)
-- [Email](mailto:javidjamae@gmail.com)
-
-# Services
-
-I mainly develop AI-enabled web applications and chatbots. Here are some of the types of services I offer:
-
-Web Application development
-- SaaS products
-- Databases
-- 3rd-party integrations
-
-AI-enabled Chatbot development
-- Customer Service Bots
-- Prospecting
-- Knowledge Bases
-- AI Personas
-- Sales / Marketing Lead Acquisition
-- Ecommerce Bots
-
-# Skills / Technologies
-
-No-code / low-code tools:
-- Airtable
-- Bubble.io
-- Make
-- Zapier
-- IFTTT
-
-Chatbot Platforms:
-- Botpress
-- Voiceflow
-- Dialogflow
-- Drift
-- ManyChat
-
-ML Development
-- Python
-- PyTorch
-- Tensorflow
-- scikit-learn
-
-WebApp / SaaS Development
-- Javascript
-- React
-- Postgres
-- MongoDB
-- GraphQL
+[Contact](/contact.md)
+[Services](/services.md)
+[Skills/Technologies](/skills-technologies.md)
+[Non-AI Work](/non-ai-work.md) - Web / SaaS projects
 
 # Projects
 The following is a list of some of the AI projects that I've worked on, though it is not comprehensive. These include projects that are done in no-code / low-code tools, as well as custom models that I've built from scratch (mosty in Python).
@@ -62,7 +12,7 @@ The following is a list of some of the AI projects that I've worked on, though i
 
 **Delivery Date:** January, 2023 (In Progress)
 
-**Tags:** AI Image Generation, Stable Diffusion, Juggernaut, Python, Background Workers, OAuth 2.0, Email Integration, APIs, Face Analysis, Face Swapping
+**Tags:** AI Image Generation, Stable Diffusion, Juggernaut, Python, Background Workers, OAuth 2.0, Email Integration, Beehiiv, APIs, Face Analysis, Face Swapping, NextJS, React, Admin Dashboard
 
 **Technologies:**
 - [Fooocus](https://github.com/lllyasviel/Fooocus)
@@ -72,13 +22,13 @@ The following is a list of some of the AI projects that I've worked on, though i
 - [Postgres](https://www.postgresql.org/)
 - [Beehiiv](https://www.beehiiv.com/)
 - [Juggernaut](https://huggingface.co/stablediffusionapi/juggernaut-xl)
-- [InsightFace](https://insightface.ai/)
+- [RapidAPI](https://rapidapi.com/)
 
 **Description:**
 I led the development of a consumer email newsletter services that generates photorealistic images of people based on a reference image that they upload. An email goes out to the users each week with a generated image of them in a fun and interesting setting, while drinking coffee. 
 
 **Links:**
-- Coming soon
+- [Screenshots](https://photos.app.goo.gl/vWD6uxZYsu62DUXn8)
 
 ## Mini-Me Chatbot Builder - SaaS AI Chatbot Platform
 
@@ -217,9 +167,3 @@ The MNIST data set is a collection of images with handwriting samples of the dig
 
 **Links:**
 - [Jupyter Notebook](https://github.com/javidjamae/data-science/blob/master/masters-prep/neural-net-from-scratch/mnist-classification-from-scratch.ipynb)
-
-# Non-AI work
-
-I have extensive experience building SaaS and consumer Web products using Javascript / React:
-- I architected and led the development of the [primary acquisition flow](https://start.freedomfinancialnetwork.com/) for Achieve (formerly known as Freedom Financial Network) entirely in React / Javascript. 
-- I was Head of Engineering at [Postman](https://www.postman.com), where I led six teams developing numerous product features using React / Javascript.
