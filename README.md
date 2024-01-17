@@ -14,20 +14,24 @@ The following is a list of some of the AI projects that I've worked on, though i
 
 **Delivery Date:** January, 2023 (In Progress)
 
-**Tags:** AI Image Generation, Stable Diffusion, Juggernaut, Python, Background Workers, OAuth 2.0, Email Integration, Beehiiv, APIs, Face Analysis, Face Swapping, NextJS, React, Admin Dashboard
+**Tags:** AI Image Generation, Stable Diffusion, Juggernaut XL, Python, Background Workers, OAuth 2.0, Email Integration, Beehiiv, APIs, Face Analysis, Face Swapping, NextJS, React, Admin Dashboard
 
 **Technologies:**
 - [Fooocus](https://github.com/lllyasviel/Fooocus)
-- [Amazon AWS](https://aws.amazon.com/) - S3, Lambda, API Gateway, RDS
+- [Amazon AWS (S3)](https://aws.amazon.com/)
 - [Replicate](https://replicate.com/)
-- [Github](https://github.com/)
-- [Postgres](https://www.postgresql.org/)
 - [Beehiiv](https://www.beehiiv.com/)
 - [Juggernaut](https://huggingface.co/stablediffusionapi/juggernaut-xl)
 - [RapidAPI](https://rapidapi.com/)
+- [Vercel](https://vercel.com/)
+- [Digital Ocean](https://www.digitalocean.com)
+- [React](https://react.dev/)
+- [Next.JS](https://vercel.com/solutions/nextjs)
+- [Postgres](https://www.postgresql.org/)
+- [Github](https://github.com/)
 
 **Description:**
-I led the development of a consumer email newsletter services that generates photorealistic images of people based on a reference image that they upload. An email goes out to the users each week with a generated image of them in a fun and interesting setting, while drinking coffee. 
+I led the development of a consumer email newsletter services that generates photorealistic images of people based on a reference image that they upload. An email goes out to the users each week with a generated image of them in a fun and interesting setting, while drinking coffee. We also built an administrative dashboard in React / NextJS. 
 
 **Links:**
 - [Screenshots](https://photos.app.goo.gl/vWD6uxZYsu62DUXn8)
