@@ -21,7 +21,7 @@ The following is a list of some of the AI projects that I've worked on, though i
 - [Amazon AWS (S3)](https://aws.amazon.com/)
 - [Replicate](https://replicate.com/)
 - [Beehiiv](https://www.beehiiv.com/)
-- [Juggernaut](https://huggingface.co/stablediffusionapi/juggernaut-xl)
+- [Juggernaut XL](https://huggingface.co/stablediffusionapi/juggernaut-xl)
 - [RapidAPI](https://rapidapi.com/)
 - [Vercel](https://vercel.com/)
 - [Digital Ocean](https://www.digitalocean.com)
@@ -29,6 +29,9 @@ The following is a list of some of the AI projects that I've worked on, though i
 - [Next.JS](https://vercel.com/solutions/nextjs)
 - [Postgres](https://www.postgresql.org/)
 - [Github](https://github.com/)
+- [Flask](https://github.com/pallets/flask)
+- [Python](https://www.python.org/)
+- [Javascript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 **Description:**
 I led the development of a consumer email newsletter services that generates photorealistic images of people based on a reference image that they upload. An email goes out to the users each week with a generated image of them in a fun and interesting setting, while drinking coffee. We also built an administrative dashboard in React / NextJS. 
@@ -52,6 +55,7 @@ I led the development of a consumer email newsletter services that generates pho
 - [React](https://react.dev/)
 - [Bland](https://www.bland.ai/)
 - [Github](https://github.com/)
+- [Javascript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 **Description:**
 I led the development of a Chatbot builder called Mini Me for Rallio. The product allows sales representatives from consumer product companies to build their own custom chatbots. Each sales representative can upload their own custom knowledgebase documents that their chatbot will use to answer questions for end customers and prospective business partners.
@@ -66,6 +70,10 @@ I led the development of a Chatbot builder called Mini Me for Rallio. The produc
 
 **Tags:** Chatbot, Botpress (botpress.com), Knowledge Base, Prompt Engineering, GPT-4
 
+**Technologies:** 
+- [OpenAI - GPT4](https://openai.com/)
+- [Botpress](https://botpress.com/)
+
 **Description:**
 I built a knowledge base AI chatbot that imports the entire sitemap for RAEK (raekdata.com) and answers questions about the company and all of their content.
 
@@ -79,7 +87,12 @@ The chatbot is built on Botpress and uses the Knowledge Base to store and retrie
 
 **Delivery Date:** October, 2023
 
-**Tags:** Chatbot, Lead Generation, Botpress (botpress.com), Make (make.com), Webhooks, Knowledge Base, Google Sheets
+**Tags:** Chatbot, Lead Generation, Botpress, Make, Webhooks, Knowledge Base, Google Sheets
+
+**Technologies:** 
+- [OpenAI - GPT4](https://openai.com/)
+- [Botpress](https://botpress.com/)
+- [Make](https://make.com/)
 
 **Description:**
 I built a lead-generation chatbot for the Ecstatic Forest Festival. This chatbot collects contact information from people before giving them an opportunity to ask questions about the event (general, ticketing, venue, schedule/program, etc). The chatbot also gives them the ability to request that the organizer reach out to them using the communication channel of their choice (WhatsApp, SMS, or email).
@@ -93,7 +106,12 @@ The chatbot is built on Botpress and stores organizer contact requests by append
 
 **Delivery Date:** September, 2023
 
-**Tags:** Chatbot, Stack (stack-ai.com), Knowledge Base, Botpress (botpress.com), Prompt Engineering, GPT-4
+**Tags:** Chatbot, Stack, Knowledge Base, Botpress, Prompt Engineering, GPT-4
+
+**Technologies:** 
+- [OpenAI - GPT4](https://openai.com/)
+- [Botpress](https://botpress.com/)
+- [Stack](https://stack-ai.com/)
 
 **Description:**
 I built an AI Persona Chatbot that users can use to interact with the Persona (or Avatar) of Mark Manson, New York Times #1 Bestselling author of books including "The Suble Art of Not Giving a F\*ck" and "Everything is F\*cked".
@@ -113,6 +131,20 @@ I implemented this bot twice, once using Stack and again using Botpress.
 
 **Tags:** GPT-4, Knowledge Base, Web Application, SaaS, Javascript, React, Python, LangChain
 
+**Technologies:** 
+- [OpenAI - GPT4](https://openai.com/)
+- [Botpress](https://botpress.com/)
+- [Stack](https://stack-ai.com/)
+- [Next.JS AI Chatbot](https://vercel.com/templates/next.js/nextjs-ai-chatbot)
+- [Next.JS](https://vercel.com/solutions/nextjs)
+- [Vercel](https://vercel.com/)
+- [Langchain JS](https://js.langchain.com/)
+- [Postgres](https://www.postgresql.org/)
+- [React](https://react.dev/)
+- [Github](https://github.com/)
+- [Javascript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+- [Python](https://www.python.org/)
+
 **Description:**
 I built a custom, internal SaaS Web application that allows recruiters to upload their job descriptions and resumes, then it rates and ranks the resumes based on their similarity to the job description as well as a set of custom questions or rules that the recruiters can provide in plain language.
 
@@ -126,8 +158,11 @@ There is currently no demo for the complete project as I built it under an NDA, 
 
 **Tags:** Chatbase, Knowledge Base, Prompt Engineering, Word Embeddings, Python / LangChain
 
+**Technologies:** 
+- [Chatbase](https://chatbase.co)
+
 **Description:**
-I built a custom chatbot that could read in not only a resume, but any series of documents that describes a person's professional experience. The chatbot can then answer questions about that person for recruiters and hiring managers that want to learn more about them as a candidate. 
+I built a custom chatbot that could be trained on a user's resume and other documents that describe their professional experience. The chatbot can then answer questions about that person for recruiters and hiring managers that want to learn more about them as a candidate. 
 
 **Links:**
 - [Chatbase](https://www.chatbase.co/chatbot-iframe/_tBmX4VVrZiKpXXe09t27)
@@ -137,6 +172,9 @@ I built a custom chatbot that could read in not only a resume, but any series of
 **Completion Date:** September, 2023
 
 **Tags:** Language Model, NLP, Generative AI, Transformer Architecture, Python, PyTorch
+
+**Technologies:** 
+- [Python](https://www.python.org/)
 
 **Description:**
 I implmented a decoder-only Transformer architecture model (same basic architecture as GPT) from scratch. This model was trained on the complete works of William Shakespeare and is capable of generating "continuous Shakespeare". It emulates the writing style of Shakespeare by using probabilistic next-token generation similar to how GPT works. 
@@ -152,6 +190,9 @@ I developed it in a Jupyter Notebook, and it is very well documented. It is not 
 
 **Tags:** Language Model, NLP, Generative AI, Python, PyTorch
 
+**Technologies:** 
+- [Python](https://www.python.org/)
+
 **Description:**
 I built a language model from scratch that is trained on a dataset of names and can then generate new names using probabilistic next-token generation.
 
@@ -165,6 +206,9 @@ I developed it across multiple Jupyter Notebooks and is very well documented. It
 **Completion Date:** August, 2023
 
 **Tags:** Classification (multi-class), Neural Networks, Python
+
+**Technologies:** 
+- [Python](https://www.python.org/)
 
 **Description:**
 This was a learning project I did where I built a simple neural network from scratch, using only simple Python libraries like `Numpy` (but no NN libraries like `tensorflow` or `pytorch`). The challenge was to implement all of the back-propagation from scratch and learn how the entire network works in detail.
