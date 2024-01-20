@@ -13,16 +13,19 @@ The following is a list of some of the AI projects that I've worked on, though i
 
 ## CoffeeGPT - Photorealistic Image Generation
 
+[Click here for the detailed project summary](/coffee-gpt/README.md)
+
 **Delivery Date:** January, 2023 (In Progress)
 
-**Tags:** AI Image Generation, Stable Diffusion, Juggernaut XL, Python, Background Workers, OAuth 2.0, Email Integration, Beehiiv, APIs, Face Analysis, Face Swapping, NextJS, React, Admin Dashboard
+**Tags:** AI Image Generation, Stable Diffusion, Juggernaut XL, Python, Background Workers, OAuth 2.0, Email Integration, Beehiiv, APIs, Face Analysis, Face Swapping, Face Detection, NextJS, React, Admin Dashboard
 
 **Technologies:**
 - [Fooocus](https://github.com/lllyasviel/Fooocus)
-- [Amazon AWS (S3)](https://aws.amazon.com/)
 - [Replicate](https://replicate.com/)
-- [Beehiiv](https://www.beehiiv.com/)
 - [Juggernaut XL](https://huggingface.co/stablediffusionapi/juggernaut-xl)
+- [MTCNN](https://github.com/ipazc/mtcnn)
+- [Beehiiv](https://www.beehiiv.com/)
+- [Amazon AWS (S3)](https://aws.amazon.com/)
 - [RapidAPI](https://rapidapi.com/)
 - [Vercel](https://vercel.com/)
 - [Digital Ocean](https://www.digitalocean.com)
@@ -39,8 +42,11 @@ I led the development of a consumer email newsletter services that generates pho
 
 **Links:**
 - [Screenshots](https://photos.app.goo.gl/vWD6uxZYsu62DUXn8)
+- [Project Details](/coffee-gpt/README.md)
 
 ## Mini-Me Chatbot Builder - SaaS AI Chatbot Platform
+
+[Click here for the detailed project summary](/rallio-minimebot/README.md)
 
 **Delivery Date:** December, 2023
 
