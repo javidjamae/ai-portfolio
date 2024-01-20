@@ -24,19 +24,19 @@ This summary encapsulates my contributions to the CoffeeGPT project, underlining
 
 The CoffeeGPT project involved strategic choices in technology to meet the specific requirements:
 
-** Cloud Services / Hosting **
+**Cloud Services / Hosting**
 - **[Amazon AWS (S3)](https://aws.amazon.com/)**: Made use of edge-cache ready S3 buckets for image storage and retreival.
 - **[Vercel](https://vercel.com/)**: Utilized for the front-end UI and integration APIs infrastructure.
 - **[Digital Ocean](https://www.digitalocean.com)**: Utilized for hosting Python APIs that performed AI and image manipulation functionality. 
 - **[Replicate](https://replicate.com/)**: Provided a robust platform for hosting the Fooocus API and Juggernaut XL stable diffusion model, enabling rapid scaling to meet user demand.
 - **[RapidAPI](https://rapidapi.com/)**: Integrated face-swapping capabilities into the image generation pipeline, vital for achieving high likeness in the final images.
 
-** AI / Image Generation / Image Detection **
+**AI / Image Generation / Image Detection**
 - **[MTCNN](https://github.com/ipazc/mtcnn)**: Utilized for their efficiency in face detection and face swapping, essential for validating the quality of incoming images.
 - **[Fooocus](https://github.com/lllyasviel/Fooocus)**: Employed to fine-tune image prompts, apply filters, and utilize stable diffusion models for diverse image scenarios.
 - **[Juggernaut XL](https://huggingface.co/stablediffusionapi/juggernaut-xl)**: The primary stable diffusion model used for creating lifelike images, integral to the user experience.
 
-** Application Development **
+**Application Development**
 - **[React](https://react.dev/)**: Employed to build the interactive and dynamic front-end user interfaces.
 - **[Next.JS](https://vercel.com/solutions/nextjs)**: Leveraged for server-side rendering and building static websites, enhancing the performance and SEO of the front-end.
 - **[Postgres](https://www.postgresql.org/)**: Served as the primary database for storing user data, image generation history, and other essential information.
@@ -45,7 +45,7 @@ The CoffeeGPT project involved strategic choices in technology to meet the speci
 - **[Javascript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)**: Used for scripting on the client-side, enhancing the interactivity and responsiveness of the web application.
 - **[Github](https://github.com/)**: Used for source code management, version control, and collaborative development of the project.
 
-** Integrations **
+**Integrations**
 - **[Beehiiv](https://www.beehiiv.com/)**: Used for crafting and sending personalized emails with AI-generated images to users.
 
 

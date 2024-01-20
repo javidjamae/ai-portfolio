@@ -24,15 +24,15 @@ This summary summarizes my contributions to the project, highlighting the techno
 
 In this project, I spearheaded the architecture and development, strategically selecting and leveraging appropriate technologies to align with our specific needs:
 
-** Cloud Services / Hosting **
+**Cloud Services / Hosting**
 - **[Vercel](https://vercel.com/)**: Deployed as the hosting platform for the project. It offered scalability and ease of use, allowing for seamless integration with Next.JS and continuous deployment from our Github repositories.
 
-** AI **
+**AI**
 - **[Langchain JS](https://js.langchain.com/)**: Leveraged to handle interactions with the vectorstore in Postgres, allowing us to pull context from the vector store given the user's message, and embed that in a custom prompt that we send to the LLM.
 - **[OpenAI - GPT4](https://openai.com/)**: The core AI engine powering the chatbot. GPT4 provided the advanced natural language understanding and generation capabilities, enabling the chatbot to deliver informative and contextually relevant responses.
 - **[Bland](https://www.bland.ai/)**: Integrated for the voice calling feature, allowing users to interact with the chatbot via voice calls. Bland.ai's API facilitated seamless connection between the chatbot and the voice calling system.
 
-** Application Development **
+**Application Development**
 - **[Next.JS AI Chatbot](https://vercel.com/templates/next.js/nextjs-ai-chatbot)**: A framework used for building the user interface of the chatbot. It provided a starting point for our custom front-end development, facilitating rapid prototyping and efficient integration with backend services.
 - **[Next.JS](https://vercel.com/solutions/nextjs)**: Utilized for its server-side rendering capabilities, enhancing the performance and SEO of the chatbot's web pages. It was instrumental in developing a responsive and dynamic user experience.
 - **[Postgres](https://www.postgresql.org/)**: Chosen as the database solution for its robustness and reliability. Used for storing and managing the chatbot's data, including user profile information and the vectorstore data.
