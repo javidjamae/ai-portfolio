@@ -20,24 +20,13 @@ The following is a list of some of the AI projects that I've worked on, though i
 **Tags:** AI Image Generation, Stable Diffusion, Juggernaut XL, Python, Background Workers, OAuth 2.0, Email Integration, Beehiiv, APIs, Face Analysis, Face Swapping, Face Detection, NextJS, React, Admin Dashboard
 
 **Technologies:**
-- [Fooocus](https://github.com/lllyasviel/Fooocus)
-- [Replicate](https://replicate.com/)
-- [Juggernaut XL](https://huggingface.co/stablediffusionapi/juggernaut-xl)
-- [MTCNN](https://github.com/ipazc/mtcnn)
-- [Beehiiv](https://www.beehiiv.com/)
-- [Amazon AWS (S3)](https://aws.amazon.com/)
-- [RapidAPI](https://rapidapi.com/)
-- [Vercel](https://vercel.com/)
-- [Digital Ocean](https://www.digitalocean.com)
-- [React](https://react.dev/)
-- [Next.JS](https://vercel.com/solutions/nextjs)
-- [Postgres](https://www.postgresql.org/)
-- [Github](https://github.com/)
-- [Flask](https://github.com/pallets/flask)
-- [Python](https://www.python.org/)
-- [Javascript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+- AI: [Fooocus](https://github.com/lllyasviel/Fooocus), [MTCNN](https://github.com/ipazc/mtcnn), [Juggernaut XL](https://huggingface.co/stablediffusionapi/juggernaut-xl)
+- Hosting: [Replicate](https://replicate.com/), [Amazon AWS (S3)](https://aws.amazon.com/), [RapidAPI](https://rapidapi.com/), [Vercel](https://vercel.com/), [Digital Ocean](https://www.digitalocean.com)
+- Email: [Beehiiv](https://www.beehiiv.com/)
+- App Development: [React](https://react.dev/), [Next.JS](https://vercel.com/solutions/nextjs), [Postgres](https://www.postgresql.org/), [Github](https://github.com/), [Flask](https://github.com/pallets/flask), [Python](https://www.python.org/), [Javascript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 **Description:**
+
 I led the development of a consumer email newsletter services that generates photorealistic images of people based on a reference image that they upload. An email goes out to the users each week with a generated image of them in a fun and interesting setting, while drinking coffee. We also built an administrative dashboard in React / NextJS. 
 
 **Links:**
@@ -53,18 +42,12 @@ I led the development of a consumer email newsletter services that generates pho
 **Tags:** LLM, Chatbot, Vectorstore, SaaS, Knowledge Base, Voice Calling AI
 
 **Technologies:** 
-- [Next.JS AI Chatbot](https://vercel.com/templates/next.js/nextjs-ai-chatbot)
-- [Next.JS](https://vercel.com/solutions/nextjs)
-- [Vercel](https://vercel.com/)
-- [Langchain JS](https://js.langchain.com/)
-- [Postgres](https://www.postgresql.org/)
-- [OpenAI - GPT4](https://openai.com/)
-- [React](https://react.dev/)
-- [Bland](https://www.bland.ai/)
-- [Github](https://github.com/)
-- [Javascript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+- AI: [Langchain JS](https://js.langchain.com/), [OpenAI - GPT4](https://openai.com/), [Bland](https://www.bland.ai/)
+- App Development: [Next.JS AI Chatbot](https://vercel.com/templates/next.js/nextjs-ai-chatbot), [Next.JS](https://vercel.com/solutions/nextjs), [Postgres](https://www.postgresql.org/), [React](https://react.dev/), [Github](https://github.com/), [Javascript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+- Hosting: [Vercel](https://vercel.com/)
 
 **Description:**
+
 I led the development of a Chatbot builder called Mini Me for Rallio. The product allows sales representatives from consumer product companies to build their own custom chatbots. Each sales representative can upload their own custom knowledgebase documents that their chatbot will use to answer questions for end customers and prospective business partners.
 
 **Links:**
@@ -82,6 +65,7 @@ I led the development of a Chatbot builder called Mini Me for Rallio. The produc
 - [Botpress](https://botpress.com/)
 
 **Description:**
+
 I built a knowledge base AI chatbot that imports the entire sitemap for RAEK (raekdata.com) and answers questions about the company and all of their content.
 
 The chatbot is built on Botpress and uses the Knowledge Base to store and retrieve context, then it sends the context along with the question to GPT-4 to enrich the answer through a highly tailored prompt.
@@ -102,6 +86,7 @@ The chatbot is built on Botpress and uses the Knowledge Base to store and retrie
 - [Make](https://make.com/)
 
 **Description:**
+
 I built a lead-generation chatbot for the Ecstatic Forest Festival. This chatbot collects contact information from people before giving them an opportunity to ask questions about the event (general, ticketing, venue, schedule/program, etc). The chatbot also gives them the ability to request that the organizer reach out to them using the communication channel of their choice (WhatsApp, SMS, or email).
 
 The chatbot is built on Botpress and stores organizer contact requests by appending to a Google Sheet using a Webhook call from Botpress to Make. Make is an integration platform that allows users to connect to third-party services like Google Sheets. The organizer also has the ability to easily integrate the same Webhook call directly into their mailing list, or other integration endpoints using Make. 
@@ -121,6 +106,7 @@ The chatbot is built on Botpress and stores organizer contact requests by append
 - [Stack](https://stack-ai.com/)
 
 **Description:**
+
 I built an AI Persona Chatbot that users can use to interact with the Persona (or Avatar) of Mark Manson, New York Times #1 Bestselling author of books including "The Suble Art of Not Giving a F\*ck" and "Everything is F\*cked".
 
 I trained the AI Persona using all of Mark Manson's books in addition to numerous blog posts and YouTube video transcripts. I thoroughly tested the chatbot to ensure that it gave meaningful answers for content coming from all of these various sources. I also spent considerable time figuring out how to prompt the system so that it gives an effective response that is similar to Mark Manson's own speaking and writing style.
@@ -153,6 +139,7 @@ I implemented this bot twice, once using Stack and again using Botpress.
 - [Python](https://www.python.org/)
 
 **Description:**
+
 I built a custom, internal SaaS Web application that allows recruiters to upload their job descriptions and resumes, then it rates and ranks the resumes based on their similarity to the job description as well as a set of custom questions or rules that the recruiters can provide in plain language.
 
 There is currently no demo for the complete project as I built it under an NDA, but you can look at specific components that I built as part of a demo.
@@ -169,6 +156,7 @@ There is currently no demo for the complete project as I built it under an NDA, 
 - [Chatbase](https://chatbase.co)
 
 **Description:**
+
 I built a custom chatbot that could be trained on a user's resume and other documents that describe their professional experience. The chatbot can then answer questions about that person for recruiters and hiring managers that want to learn more about them as a candidate. 
 
 **Links:**
@@ -184,6 +172,7 @@ I built a custom chatbot that could be trained on a user's resume and other docu
 - [Python](https://www.python.org/)
 
 **Description:**
+
 I implmented a decoder-only Transformer architecture model (same basic architecture as GPT) from scratch. This model was trained on the complete works of William Shakespeare and is capable of generating "continuous Shakespeare". It emulates the writing style of Shakespeare by using probabilistic next-token generation similar to how GPT works. 
 
 I developed it in a Jupyter Notebook, and it is very well documented. It is not productionalized currently. 
@@ -201,6 +190,7 @@ I developed it in a Jupyter Notebook, and it is very well documented. It is not 
 - [Python](https://www.python.org/)
 
 **Description:**
+
 I built a language model from scratch that is trained on a dataset of names and can then generate new names using probabilistic next-token generation.
 
 I developed it across multiple Jupyter Notebooks and is very well documented. It is not productionalized currently.
@@ -218,6 +208,7 @@ I developed it across multiple Jupyter Notebooks and is very well documented. It
 - [Python](https://www.python.org/)
 
 **Description:**
+
 This was a learning project I did where I built a simple neural network from scratch, using only simple Python libraries like `Numpy` (but no NN libraries like `tensorflow` or `pytorch`). The challenge was to implement all of the back-propagation from scratch and learn how the entire network works in detail.
 
 The MNIST data set is a collection of images with handwriting samples of the digits between 0 to 9, and the challenge is to build a classifier to identify which image is which digit. 
