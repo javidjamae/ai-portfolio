@@ -5,7 +5,8 @@ Hi, I'm Javid and I lead the development of AI and Web/SaaS projects. A handful 
 - [Contact](/contact.md)
 - [Services](/services.md)
 - [Skills/Technologies](/skills-technologies.md)
-- [Web / SaaS projects](/non-ai-work.md)
+- [Product Development Experience](/product-development.md)
+- [Fractional CTO Services](/fractional-cto.md)
 
 # Projects
 The following is a list of some of the AI projects that I've worked on, though it is not comprehensive. These include projects that are done in no-code / low-code tools, as well as custom models that I've built from scratch (mosty in Python).
