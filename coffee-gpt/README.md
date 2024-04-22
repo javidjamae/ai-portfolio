@@ -1,4 +1,4 @@
-## CoffeeGPT Project Summary
+# CoffeeGPT Project Summary
 CoffeeGPT, an advanced AI-driven initiative undertaken for Black Rifle, marks a leap forward in personalized digital marketing and customer engagement for the coffee industry. Launched in January 2024, my leadership in steering the development of this pioneering platform was instrumental. CoffeeGPT serves as a novel marketing tool, allowing brands to create and disseminate AI-generated, coffee-themed images that incorporate customers’ likenesses into engaging scenarios, delivered directly to their email inboxes.
 
 At a high-level, consumers can register for CoffeeGPT by simply uploading one or two photos of themselves, and the app will generate interesting and humorous photorealistic images of them drinking coffee in different scenarios, which they receive in their email inbox weekly.
@@ -7,20 +7,20 @@ This summary encapsulates my contributions to the CoffeeGPT project, underlining
 
 [CoffeeGPT Screenshots](https://photos.app.goo.gl/vWD6uxZYsu62DUXn8)
 
-### Project Features
+## Project Features
 - **AI-Driven Personalization**: Harnessed cutting-edge AI to craft personalized images, placing users in imaginative coffee-related settings.
-- **Seamless Email Campaigns**: Integrated with Beehiiv to automate the dispatch of weekly email newsletters featuring these tailored images, enhancing customer engagement.
+- **Seamless Email Campaigns**: Integrated with Sendgrid to automate the dispatch of weekly email newsletters featuring these tailored images, enhancing customer engagement.
 - **Platform Synergy**: Enabled user image library linkage through secure integration via APIs to the proprietary Conjure platform, enriching the personalization aspect of the service.
 - **Cloud-Based Scalability**: Developed robust APIs and batch processing jobs within Vercel and DigitalOcean cloud environments to adapt flexibly to an expanding user base.
 
-### Technical Contributions
+## Technical Contributions
 - **Cloud Infrastructure Architecture**: Spearheaded the design of a scalable, AWS-backed infrastructure, ensuring high availability and system robustness.
-- **API-Centric Development**: Crafted a suite of RESTful APIs, streamlining integration with external services like Beehive email automation and Conjure’s image library.
+- **API-Centric Development**: Crafted a suite of RESTful APIs, streamlining integration with external services like Sendgrid email automation and Conjure’s image library.
 - **Image Generation Pipeline**: Orchestrated the exploratory phase, determining the feasibility and methodology for generating high-fidelity photorealistic images.
 - **User Preference Management**: Implemented comprehensive opt-in and opt-out workflows, providing users with control over their engagement levels.
 - **Security & Testing Protocols**: Established security measures for APIs and formulated a testing strategy within a dedicated staging environment.
 
-### Technologies
+## Technologies
 
 The CoffeeGPT project involved strategic choices in technology to meet the specific requirements:
 
@@ -46,10 +46,10 @@ The CoffeeGPT project involved strategic choices in technology to meet the speci
 - **[Github](https://github.com/)**: Used for source code management, version control, and collaborative development of the project.
 
 **Integrations**
-- **[Beehiiv](https://www.beehiiv.com/)**: Used for crafting and sending personalized emails with AI-generated images to users.
+- **[Sendgrid](https://www.sendgrid.com/)**: Used for crafting and sending personalized emails with AI-generated images to users.
 
 
-### Communication and Leadership
+## Communication and Leadership
 
 Throughout the CoffeeGPT project, my leadership and communication efforts were key to aligning the team with the project's vision:
 

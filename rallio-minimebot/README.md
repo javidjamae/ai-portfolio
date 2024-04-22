@@ -1,4 +1,4 @@
-## Mini-Me Chatbot Builder - Project Summary
+# Mini-Me Chatbot Builder - Project Summary
 
 The Mini-Me Chatbot Builder, developed for Rallio, represents a significant advancement in the field of SaaS AI Chatbot Platforms for consumer-oriented Network Marketing brands. Delivered in December 2023, I played a pivotal role in leading the development of this innovative product. The platform is designed to empower sales representatives from consumer product companies to create bespoke chatbots using their own custom knowledge bases, thereby facilitating more effective communication with end customers and potential business partners.
 
@@ -6,21 +6,21 @@ This summary summarizes my contributions to the project, highlighting the techno
 
 [Screenshots](https://photos.app.goo.gl/ZBnvkbnSHXc9Bsr67)
 
-### Project Features
+## Project Features
 - **Voice AI Calling**: Integrated a voice calling system using Bland.ai to allow prospects to interact with the chatbot through voice calls.
 - **Custom Knowledge Base**: Developed a feature allowing sales reps to upload their unique knowledge base documents for the chatbot to use in answering queries.
 - **Custom Chatbot per Sales Rep**: Enabled sales reps to create personalized chatbots, reflecting their style and preferences.
 - **Visitor Database with Chat History**: Included a visitor database feature to track anonymous web visitors and their chat history with the chatbot.
 - **Authentication for Sales Reps**: Implemented an authentication system for sales reps, ensuring secure and personalized access to the chatbot configuration and dashboard.
 
-### Technical Contributions
+## Technical Contributions
 - **Rapid Prototype and Backend Integration**: A key achievement in the project was the development of a rapid prototype that seamlessly integrated a knowledge base and a Large Language Model (LLM), aligning closely with project specifications. This ensured that the backend performance matched the expectations set by our example applications.
 - **Front-End Development**: Utilizing Vercel's NextJS AI Chatbot template, I led the team in establishing the essential front-end functionality. This step was crucial in laying down the foundational user interface for the chatbot platform.
 - **Integration Focus**: A major focus of my role was the integration of the front-end with the backend LLM and knowledge base, including deploying the backend as an API. This was integral to ensuring the functionality of the chatbot for its specified use case.
 - **Representative Customization**: I contributed to tailoring the chatbot’s tone and responses by integrating detailed information about the sales representatives, a crucial aspect to mimic their style and enhance user interaction.
 - **Future Development Plans**: I was involved in planning for the next phases of the project, which included developing the interface and backend capabilities for launching diverse chatbots under different URL slugs, and subsequently, the homepage.
 
-### Technologies
+## Technologies
 
 In this project, I spearheaded the architecture and development, strategically selecting and leveraging appropriate technologies to align with our specific needs:
 
@@ -41,7 +41,7 @@ In this project, I spearheaded the architecture and development, strategically s
 - **[Typescript/Javascript](https://www.typescriptlang.org/)**: Employed as the primary programming languages for both front-end and back-end development. They provided the necessary flexibility and efficiency for building complex web applications and integrating various APIs, including those for AI and database interactions.
 - **[Github](https://github.com/)**: Utilized for version control and collaboration among the development team. It was essential for tracking changes, managing codebases, and facilitating continuous integration and deployment processes.
 
-### Communication and Leadership
+## Communication and Leadership
 During the Mini-Me Chatbot Builder project for Rallio, my role in communication and leadership was crucial and significantly contributed to the project's success. Key contributions included:
 
 - **Project Management**: Led a team of four developers, coordinating tasks, pull requests, code reviews, and testing to maintain project momentum and quality.
