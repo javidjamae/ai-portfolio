@@ -27,8 +27,8 @@ The Amcat Roofing project involved strategic choices in technology to meet the s
 - **[Vercel](https://vercel.com/)**: Deployed as the hosting platform for the project. It offered scalability and ease of use, allowing for seamless integration with Next.JS and continuous deployment from our Github repositories.
 
 **APIs**
-- **[Google Maps API]()**: Used the Google Maps API to autocomplete addresses on search, show satellite images of addresses, as well as to pull latitude / lontitude data for addresses
-- **[Google Solar API]()**: Used to calculate approximate roof square footage to automatically generate an estimate for the full roof replacement. 
+- **[Google Maps API](https://developers.google.com/maps)**: Used the Google Maps API to autocomplete addresses on search, show satellite images of addresses, as well as to pull latitude / lontitude data for addresses
+- **[Google Solar API](https://developers.google.com/maps/documentation/solar/overview)**: Used to calculate approximate roof square footage to automatically generate an estimate for the full roof replacement. 
 
 **Application Development**
 - **[React](https://react.dev/)**: Employed to build the interactive and dynamic front-end user interfaces.
