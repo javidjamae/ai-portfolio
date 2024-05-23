@@ -1,5 +1,29 @@
 # Skills / Technologies
 
+WebApp / SaaS Development
+- Javascript
+- React
+- Postgres
+- MongoDB
+- GraphQL
+- NextJS
+
+Management
+- Engineering Management
+- Recruiting / Team Formation
+- Process Management
+- Stakeholder Management
+
+Voice AI Platforms:
+- VAPI
+- Retell
+
+ML Development
+- Python
+- PyTorch
+- Tensorflow
+- scikit-learn
+
 No-code / low-code tools:
 - Airtable
 - Bubble.io
@@ -13,22 +37,3 @@ Chatbot Platforms:
 - Dialogflow
 - Drift
 - ManyChat
-
-ML Development
-- Python
-- PyTorch
-- Tensorflow
-- scikit-learn
-
-WebApp / SaaS Development
-- Javascript
-- React
-- Postgres
-- MongoDB
-- GraphQL
-
-Management
-- Engineering Management
-- Recruiting / Team Formation
-- Process Management
-- Stakeholder Management
