@@ -31,7 +31,7 @@ I led the development of a consumer email newsletter services that generates pho
 
 [Details](./coffee-gpt/README.md) 
 
-## Mini-Me Chatbot Builder - SaaS AI Chatbot Platform**
+## Mini-Me Chatbot Builder - SaaS AI Chatbot Platform
 
 I led the development of a Chatbot builder called Mini Me for Rallio. The product allows sales representatives from consumer product companies to build their own custom chatbots. Each sales representative can upload their own custom knowledgebase documents that their chatbot will use to answer questions for end customers and prospective business partners.
 
