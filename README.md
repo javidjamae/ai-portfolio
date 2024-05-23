@@ -19,8 +19,6 @@ I led the development of the MVP for VitalFew, an AI-powered recruiting tool use
 
 [Details](./vitalfew/README.md)
 
-[All AI Projects](./ai-development.md)
-
 ## Postman - Head of Engineering
 
 I was Head of Engineering for the Growth organization at Postman. I help build and manage an org with 45 people, where we ran product experiments and helped drive a major increase in revenue and user growth for the company. During my tenure we help grow revenue from $60M to $100M ARR, and we helped grow the userbase to over 20M users.
@@ -33,20 +31,14 @@ I led the development of a consumer email newsletter services that generates pho
 
 [Details](./coffee-gpt/README.md) 
 
-[All AI Projects](./ai-development.md)
-
 ## Mini-Me Chatbot Builder - SaaS AI Chatbot Platform**
 
 I led the development of a Chatbot builder called Mini Me for Rallio. The product allows sales representatives from consumer product companies to build their own custom chatbots. Each sales representative can upload their own custom knowledgebase documents that their chatbot will use to answer questions for end customers and prospective business partners.
 
 [Details](./rallio-minimebot/README.md)
 
-[All AI Projects](./ai-development.md)
-
 ## Amcat Roofing - Lead Acquisition Funnel
 
 I led the development of a consumer lead acquisition funnel for a US-based roofing company. The company provides roofing inspections, repairs, and replacement. The entire funnel was built with React + NextJS.
 
 [Details](./amcat-roofing/README.md)
-
-[All SaaS Projects](./product-development.md)
