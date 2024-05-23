@@ -9,7 +9,9 @@ Hi, I'm Javid and I lead the development of both [AI-enabled products](./ai-deve
 
 # Highlighted Projects / Roles
 
-The following is a sample set of projects I've worked on.
+Below is a sample set of projects I've worked on, but here is a more comprehensive list of projects:
+- [All AI Projects](./ai-development.md)
+- [All SaaS Projects](./product-development.md)
 
 ## VitalFew - AI-Powered Recruiting Platform
 
