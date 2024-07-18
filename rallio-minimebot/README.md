@@ -7,6 +7,9 @@ This summary summarizes my contributions to the project, highlighting the techno
 [Screenshots](https://photos.app.goo.gl/ZBnvkbnSHXc9Bsr67)
 
 ## Project Features
+
+Here are some of the key features of this project:
+
 - **Voice AI Calling**: Integrated a voice calling system using Bland.ai to allow prospects to interact with the chatbot through voice calls.
 - **Custom Knowledge Base**: Developed a feature allowing sales reps to upload their unique knowledge base documents for the chatbot to use in answering queries.
 - **Custom Chatbot per Sales Rep**: Enabled sales reps to create personalized chatbots, reflecting their style and preferences.
@@ -14,6 +17,9 @@ This summary summarizes my contributions to the project, highlighting the techno
 - **Authentication for Sales Reps**: Implemented an authentication system for sales reps, ensuring secure and personalized access to the chatbot configuration and dashboard.
 
 ## Technical Contributions
+
+Here are some of my key technical contributions to this project:
+
 - **Rapid Prototype and Backend Integration**: A key achievement in the project was the development of a rapid prototype that seamlessly integrated a knowledge base and a Large Language Model (LLM), aligning closely with project specifications. This ensured that the backend performance matched the expectations set by our example applications.
 - **Front-End Development**: Utilizing Vercel's NextJS AI Chatbot template, I led the team in establishing the essential front-end functionality. This step was crucial in laying down the foundational user interface for the chatbot platform.
 - **Integration Focus**: A major focus of my role was the integration of the front-end with the backend LLM and knowledge base, including deploying the backend as an API. This was integral to ensuring the functionality of the chatbot for its specified use case.
