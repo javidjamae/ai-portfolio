@@ -8,11 +8,34 @@ I have extensive experience developing AI-powered applications:
 # Projects
 The following is a list of some of the AI projects that I've worked on, though it is not comprehensive. These include projects that are done in no-code / low-code tools, as well as custom models that I've built from scratch (mosty in Python).
 
+## VitalFew - AI-powered Recruiting Platform
+
+[Click here for the detailed project summary](/vitalfew/README.md)
+
+**Delivery Date:** July, 2024
+
+**Tags:** AI, Voice AI, VAPI, NextJS, React, Material Tailwind, Node.js, Postgres, Vercel, GitHub, Supabase, CI/CD, Automated Recruitment, Scheduling, SaaS
+
+**Technologies:**
+- AI: [VAPI](https://vapi.ai/)
+- Hosting: [Vercel](https://vercel.com/)
+- App Development: [NextJS](https://nextjs.org/), [React](https://reactjs.org/), [Material Tailwind](https://material-tailwind.com/), [Node.js](https://nodejs.org/), [Postgres](https://www.postgresql.org/), [Supabase](https://www.supabase.com/), [GitHub](https://github.com/), [Javascript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+
+**Description:**
+
+I led the development of an innovative SaaS recruiting platform designed to revolutionize the recruitment process by integrating AI-driven automation. VitalFew automates candidate communication and pre-screening using voice AI, streamlining the initial stages of recruitment and optimizing human recruiter interactions. The platform allows companies to quickly call hundreds of applicants, pre-screen them to see if they meet the minimum requirements for the job, and schedule them for a screening interview with a human recruiter or hiring manager. We also built an administrative dashboard in React / NextJS.
+
+**Links:**
+- [Screenshots](https://photos.app.goo.gl/hGJ7NdWthAvs8mYH7)
+- [Live Website](https://vitalfew.ai)
+- [Project Details](/vitalfew/README.md)
+
+
 ## CoffeeGPT - Photorealistic Image Generation
 
 [Click here for the detailed project summary](/coffee-gpt/README.md)
 
-**Delivery Date:** January, 2023 (In Progress)
+**Delivery Date:** January, 2024
 
 **Tags:** AI Image Generation, Stable Diffusion, Juggernaut XL, Python, Background Workers, OAuth 2.0, Email Integration, Beehiiv, APIs, Face Analysis, Face Swapping, Face Detection, NextJS, React, Admin Dashboard
 
