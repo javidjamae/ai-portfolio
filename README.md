@@ -7,6 +7,10 @@ Hi, I'm Javid and I lead the development of both [AI-enabled products](./ai-deve
 - [Skills/Technologies](/skills-technologies.md)
 - [Fractional CTO Services](/fractional-cto.md)
 
+# Bio / About Me
+
+With over 20 years of experience in software development, consulting, and leadership, I specialize in building [SaaS Products](./product-development.md), driving product innovation, and developing [AI-powered solutions](./ai-development.md). I’ve led high-performing teams at companies like [Postman](./postman/README.md) and [Achieve](https://www.achieve.com), where I focused on creating scalable, impactful products. As a consultant and [fractional CTO](./fractional-cto.md), I offer deep expertise in aligning technology strategy with business goals, developing custom software solutions, and leading teams to deliver cutting-edge web and AI-driven products. My approach blends hands-on technical expertise with strategic leadership, empowering businesses to excel in the digital and AI revolution.
+
 # Highlighted Projects / Roles
 
 Below is a sample set of projects I've worked on, but here is a more comprehensive list of projects:
@@ -24,7 +28,7 @@ I led the development of the MVP for VitalFew, an AI-powered recruiting tool use
 
 I was Head of Engineering for the Growth organization at Postman. I help build and manage an org with 45 people, where we ran product experiments and helped drive a major increase in revenue and user growth for the company. During my tenure we help grow revenue from $60M to $100M ARR, and we helped grow the userbase to over 20M users.
 
-[Details](http://www.postman.com)
+[Details](./postman/README.md)
 
 ## CoffeeGPT - Photorealistic, AI-Powered Image Generation
 
