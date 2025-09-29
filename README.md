@@ -17,6 +17,7 @@ Below is a sample set of projects I've worked on, but here is a more comprehensi
 - [AI Projects](./ai-development.md)
 - [AI Voice Assistants](./voice-assistants.md)
 - [SaaS / Product Development](./product-development.md)
+- [Experimentation](./experimentation.md)
 
 ## VitalFew - AI-Powered Recruiting Platform
 
