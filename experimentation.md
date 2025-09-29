@@ -11,17 +11,17 @@ I’ve led experimentation programs end to end across growth, product, and platf
 ## Experimentation Architecture (End to End)
 
 - Feature Flagging and Targeting:
-- Established a tiered flagging strategy (kill switches, rollout flags, experiment flags) and enforced separation of config vs. code paths.
-  - Built robust targeting/segmentation (cohorts, account tiers, geo, device, lifecycle stage) with deterministic bucketing and sticky assignments.
+    - Established a tiered flagging strategy (kill switches, rollout flags, experiment flags) and enforced separation of config vs. code paths.
+    - Built robust targeting/segmentation (cohorts, account tiers, geo, device, lifecycle stage) with deterministic bucketing and sticky assignments.
 - Client/Server Event Tracking:
-  - Instrumented consistent client and server SDKs with schema validation, event versioning, and reliable delivery.
-- Implemented exposure logging and assignment audit trails to eliminate bias and enable trustworthy analysis.
+    - Instrumented consistent client and server SDKs with schema validation, event versioning, and reliable delivery.
+    - Implemented exposure logging and assignment audit trails to eliminate bias and enable trustworthy analysis.
 - Data Pipelines and Exports:
-  - Set up batch/stream pipelines to centralize events; automated exports from LaunchDarkly/Optimizely to Amplitude and the data warehouse for BI.
-  - Built identity stitching (user_id, device_id, account_id) and sessionization rules to unify cross‑surface behavior.
+    - Set up batch/stream pipelines to centralize events; automated exports from LaunchDarkly/Optimizely to Amplitude and the data warehouse for BI.
+    - Built identity stitching (user_id, device_id, account_id) and sessionization rules to unify cross‑surface behavior.
 - Readouts and Guardrails:
-  - Standardized primary/secondary/guardrail metrics, minimum runtime, traffic allocation rules, and concurrency constraints.
-  - Delivered auto‑generated experiment dashboards and weekly rollups for product and leadership.
+    - Standardized primary/secondary/guardrail metrics, minimum runtime, traffic allocation rules, and concurrency constraints.
+    - Delivered auto‑generated experiment dashboards and weekly rollups for product and leadership.
 
 ## Statistical Methodologies and Analysis
 
