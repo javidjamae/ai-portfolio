@@ -6,6 +6,13 @@ For SaaS, I run Product‑Led Growth focused on activation, conversion, and rete
 
 My work spans vendor selection and management; statistical analysis frameworks; full‑stack architecture from flagging to analytics pipelines; and cross‑functional training that enables decision‑quality experiments at scale.
 
+## Notable Outcomes
+
+- Experiments shipped: Tout (~30), Freedom/Achieve (~20), Postman (~40), Skipcard (~60)
+- Postman: free‑trial introduction and checkout/pricing work materially lifted conversion and ARR
+- Freedom/Achieve: DTC acquisition funnel rewrite and optimization drove ~12% conversion lift
+
+
 ## Platforms and Vendor Management
 
 - Selected, implemented, and managed core vendors across the experimentation stack, including LaunchDarkly (feature management), Amplitude (product analytics and experiment readouts), Iterable (messaging and lifecycle), and Optimizely (A/B and multivariate testing).
@@ -46,6 +53,12 @@ My work spans vendor selection and management; statistical analysis frameworks; 
 - Established change‑management for flags and experiment configs; enforced auditability and rollback procedures.
  - Owned end‑to‑end program operations, including cross‑team coordination, experiment portfolio planning, and weekly stakeholder reporting with standardized readouts.
 
+### Continuous Delivery & Velocity
+
+- Implemented continuous delivery practices to ship multiple times per day
+- Introduced feature flagging/partial rollouts to decouple deploy from release
+- Architected CD pipeline on Kubernetes/Docker; improved cycle/lead time tracking with Kanban
+
 ### Surfaces Covered
 
 - Expansion (referrals, invitations)
@@ -72,8 +85,12 @@ My work spans vendor selection and management; statistical analysis frameworks; 
  - Feature Management: LaunchDarkly, Optimizely (feature flags/rollouts), Amplitude Experimentation (feature flags), homegrown flagging tools
 - Experimentation: LaunchDarkly, Optimizely, Amplitude Experimentation, homegrown
 - Product Analytics: Amplitude (events, cohorts, experiment analysis), Mixpanel, Heap, PostHog
-- Messaging/Lifecycle: Iterable, Customer.io (experiment-aware journeys)
+- Web Analytics/Tagging: Google Analytics, Google Tag Manager, Tealium
+- Messaging/Lifecycle: Iterable, Customer.io, Sendgrid, Sendinblue, Twilio
+- CMS/DAM/Storage: Contentful, Cloudinary, Amazon S3
+- Event Bus/Streaming: Kafka
 - Data: Segment, Hightouch (reverse ETL), warehouse exports, ELT/ETL pipelines, BI dashboards, identity resolution
+- Payments/Checkout: Stripe; signed‑in/out checkout flows, trials, discounts, regional pricing
 - Acquisition/Attribution: Cake (affiliate tracking)
 
 ## Lifecycle and Acquisition-led Growth
