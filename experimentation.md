@@ -1,6 +1,10 @@
 # Experimentation Experience (Growth / Product)
 
-I’ve led experimentation programs end to end across growth, product, and platform teams. My experience includes: vendor selection and management, building statistical analysis frameworks, architecting the full technical stack (from flagging to analytics pipelines), and training cross‑functional partners to run reliable, decision‑quality experiments at scale.
+I lead end‑to‑end experimentation across growth, product, and platform teams.
+
+For SaaS, I run Product‑Led Growth focused on activation, conversion, and retention. For consumer brands, I drive Growth Marketing for acquisition and unauthenticated visitor experimentation.
+
+My work spans vendor selection and management; statistical analysis frameworks; full‑stack architecture from flagging to analytics pipelines; and cross‑functional training that enables decision‑quality experiments at scale.
 
 ## Platforms and Vendor Management
 
@@ -56,23 +60,29 @@ I’ve led experimentation programs end to end across growth, product, and platf
 - Developing a full curriculum with the Delivering Growth community (hosted on Skool) that covers the practical and statistical foundations of product experimentation.
 - Community: https://www.skool.com/delivering-growth/about
 
-## Representative Impact
+## Engagements
 
 - Postman (Head of Engineering, Growth): built the experimentation platform and analytics foundations used across the org; helped grow revenue from ~$60M to ~$100M ARR and scale to 20M+ users.
 - Achieve (Freedom Financial Network): architected acquisition flows and experimentation frameworks; implemented rigorous frequentist/Bayesian analyses and standardized readouts.
+- Earnest: six‑month engagement to design/stand up experimentation infrastructure, including tooling selection, instrumentation standards, flag governance, analysis templates, and enablement.
 - Multiple startups/SMBs: introduced right‑sized flagging, analytics, and readout tooling to enable faster iteration with trustworthy decisions.
 
-## Consulting Highlights
+## Tooling and Integrations
 
-- Earnest: six‑month engagement to design/stand up experimentation infrastructure, including tooling selection, instrumentation standards, flag governance, analysis templates, and enablement.
-
-## Tooling and Integrations (Examples)
-
-- Feature Management: LaunchDarkly
-- Experimentation: Optimizely (web, server), custom frameworks, bandit allocation libraries
-- Product Analytics: Amplitude (events, cohorts, experiment analysis), Mixpanel, Heap
-- Messaging/Lifecycle: Iterable (experiment‑aware journeys)
+ - Feature Management: LaunchDarkly, Optimizely (feature flags/rollouts), Amplitude Experimentation (feature flags), homegrown flagging tools
+- Experimentation: LaunchDarkly, Optimizely, Amplitude Experimentation, homegrown
+- Product Analytics: Amplitude (events, cohorts, experiment analysis), Mixpanel, Heap, PostHog
+- Messaging/Lifecycle: Iterable, Customer.io (experiment-aware journeys)
 - Data: Segment, Hightouch (reverse ETL), warehouse exports, ELT/ETL pipelines, BI dashboards, identity resolution
+- Acquisition/Attribution: Cake (affiliate tracking)
+
+## Lifecycle and Acquisition-led Growth
+
+- Unauthenticated experiments across marketing and landing surfaces with end-to-end tracking to activation
+- Affiliate systems integration and experimentation: Cake (offer setup, attribution, payout rules)
+- SEO strategy and experimentation: content architecture, internal linking, structured data, measurement
+- Programmatic SEO: auto-generated, SEO-optimized landing pages at scale
+- Lifecycle journeys aligned with experiment arms across email, in-app, and push
 
 ## Education and Certifications (Selected)
 
